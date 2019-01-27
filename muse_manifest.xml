@@ -1,0 +1,40 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sinnbite.github.io" resolutions="1x" timestamp="1548620993597">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-musters.css" crc="14931889" ref="serien:anime:filme:index"/>
+    <file name="serien.css" crc="4016954362" ref="serien"/>
+    <file name="iefonts_serien.css" crc="226518392" ref="serien"/>
+    <file name="anime.css" crc="308626257" ref="anime"/>
+    <file name="filme.css" crc="3925204292" ref="filme"/>
+    <file name="iefonts_filme.css" crc="4043351987" ref="filme"/>
+    <file name="index.css" crc="4003059540" ref="index"/>
+    <file name="iefonts_index.css" crc="3835209287" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="bs-big.png" crc="4219508547" seo="true" mt="1547714327000"/>
+    <file name="anime.jpg" crc="3821121202" seo="true" mt="1547661149000"/>
+    <file name="serien.jpg" crc="4274607083" seo="true" mt="1547661463000"/>
+    <file name="filme.jpg" crc="4023660753" seo="true" mt="1547661229000"/>
+    <file name="anime-tube.tv.png" crc="4021181481" seo="true" mt="1547715977000"/>
+    <file name="naruto-tube.jpg" crc="161421797" seo="true" mt="1547716976000"/>
+    <file name="onepiece-tube.jpg" crc="3986244552" seo="true" mt="1547717538000"/>
+    <file name="crunchyroll_logo_2012v.png" crc="4151607080" seo="true" mt="1548618573000"/>
+    <file name="watchbox.png" crc="55906560" seo="true" mt="1548619148000"/>
+    <file name="serienstream_button-1024x378.jpg" crc="3791472420" seo="true" mt="1548619446000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:anime:serien:filme"/>
+    <file name="museutils.js" crc="340535759" ref="index:anime:serien:filme"/>
+    <file name="whatinput.js" crc="86476730" ref="index:anime:serien:filme"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:anime:serien:filme"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:anime:serien:filme"/>
+    <file name="require.js" crc="7928878" ref="index:anime:serien:filme"/>
+  </folder>
+  <folder name="images">
+    <file name="mein-stream-index-favicon.ico" crc="4118066263" ref="index"/>
+  </folder>
+  <file name="index.html" crc="522015123" seo="true" mt="1548619951029" redirect="true"/>
+  <file name="anime.html" crc="4215346710" seo="true" mt="1548619537064" redirect="true"/>
+  <file name="serien.html" crc="3911893898" seo="true" mt="1548618949272" redirect="true"/>
+  <file name="filme.html" crc="4280884851" seo="true" mt="1548618953149" redirect="true"/>
+</manifest>
